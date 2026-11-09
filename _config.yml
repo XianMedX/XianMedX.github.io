@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "XianMedX"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "XianMedX/XianMedX.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Shuyi Xian"
+  pronouns         : "he/him"  
+  bio              : "Get busy living, or get busy dying."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Wuhan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "syxian@whu.edu.cn" 
 
   # Academic websites
   academia         : # URL
